@@ -25,5 +25,5 @@ hs_err_pid*
 *.classpath
 *.project
 input.txt
-.setting/
+.settings/
 .bin/
