@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class BOJ_24624 {
+public class BOJ_24264 {
 	public void algorithmNum3Solution() throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -17,6 +17,6 @@ public class BOJ_24624 {
 		bw.close();
 	}
 	public static void main(String[] args) throws Exception {
-		new BOJ_24624().algorithmNum3Solution();
+		new BOJ_24264().algorithmNum3Solution();
 	}
 }
